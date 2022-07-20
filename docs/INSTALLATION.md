@@ -2,16 +2,16 @@
 
 Unlike newer languages, COBOL has multiple well-maintained compilers, though each has their own benefits. 
 
-## GnuCobol
+## GnuCOBOL
 
 GnuCOBOL is the Free Software Foundation's Free and Open Source COBOL Compiler. It transpiles COBOL into a C program before using GCC to compile that into an executable. Instructions for installation can be found [here][GnuCOBOL].
 
-## IBM Cobol
+## IBM Enterprise COBOL
 
-As a mainframe vendor, IBM maintains its own dialect of COBOL that works on its z/OS as well as other modern operating systems. IBM COBOL can be obtained free of charge through applying for the [COBOL environment for VSCode][IBM COBOL], which is part of the [Open Mainframe Project][Open Mainframe].
+As a mainframe vendor, IBM maintains its own dialect of COBOL that works on its z/OS as well as other modern operating systems. As part of the [Open Mainframe Project's COBOL Programming Course][Open Mainframe], access to IBM Enterprise COBOL for z/OS can be obtained free of charge for educational purposes by applying at [COBOL Programming for VSCode][IBM COBOL].
 
 [GnuCOBOL]: https://gnucobol.sourceforge.io/faq/index.html#using-gnucobol
-[IBM COBOL]: https://www-40.ibm.com/events/wwe/ast/mtm/cobolvscode.nsf/enrollall?openform
+[IBM COBOL]: https://ibm.biz/cobollabs
 [Open Mainframe]: https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse
 
 <!--
